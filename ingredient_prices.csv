@@ -1,0 +1,894 @@
+month,ingredient,bls_series,bls_item,bls_value_usd,divisor,unit_price_usd,per,bls_source
+2023-01,bacon,APU0000704111,"Bacon, sliced, per lb",6.808,1,6.808000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-02,bacon,APU0000704111,"Bacon, sliced, per lb",6.595,1,6.595000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-03,bacon,APU0000704111,"Bacon, sliced, per lb",6.613,1,6.613000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-04,bacon,APU0000704111,"Bacon, sliced, per lb",6.549,1,6.549000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-05,bacon,APU0000704111,"Bacon, sliced, per lb",6.339,1,6.339000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-06,bacon,APU0000704111,"Bacon, sliced, per lb",6.224,1,6.224000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-07,bacon,APU0000704111,"Bacon, sliced, per lb",6.236,1,6.236000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-08,bacon,APU0000704111,"Bacon, sliced, per lb",6.502,1,6.502000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-09,bacon,APU0000704111,"Bacon, sliced, per lb",7.083,1,7.083000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-10,bacon,APU0000704111,"Bacon, sliced, per lb",7.223,1,7.223000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-11,bacon,APU0000704111,"Bacon, sliced, per lb",6.899,1,6.899000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-12,bacon,APU0000704111,"Bacon, sliced, per lb",6.774,1,6.774000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-01,bacon,APU0000704111,"Bacon, sliced, per lb",6.614,1,6.614000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-02,bacon,APU0000704111,"Bacon, sliced, per lb",6.560,1,6.560000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-03,bacon,APU0000704111,"Bacon, sliced, per lb",6.609,1,6.609000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-04,bacon,APU0000704111,"Bacon, sliced, per lb",6.637,1,6.637000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-05,bacon,APU0000704111,"Bacon, sliced, per lb",6.818,1,6.818000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-06,bacon,APU0000704111,"Bacon, sliced, per lb",6.827,1,6.827000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-07,bacon,APU0000704111,"Bacon, sliced, per lb",6.883,1,6.883000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-08,bacon,APU0000704111,"Bacon, sliced, per lb",6.785,1,6.785000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-09,bacon,APU0000704111,"Bacon, sliced, per lb",6.955,1,6.955000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-10,bacon,APU0000704111,"Bacon, sliced, per lb",6.869,1,6.869000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-11,bacon,APU0000704111,"Bacon, sliced, per lb",6.843,1,6.843000,lb,https://data.bls.gov/timeseries/APU0000704111
+2024-12,bacon,APU0000704111,"Bacon, sliced, per lb",6.915,1,6.915000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-01,bacon,APU0000704111,"Bacon, sliced, per lb",7.044,1,7.044000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-02,bacon,APU0000704111,"Bacon, sliced, per lb",6.798,1,6.798000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-03,bacon,APU0000704111,"Bacon, sliced, per lb",6.978,1,6.978000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-04,bacon,APU0000704111,"Bacon, sliced, per lb",7.009,1,7.009000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-05,bacon,APU0000704111,"Bacon, sliced, per lb",6.985,1,6.985000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-06,bacon,APU0000704111,"Bacon, sliced, per lb",7.098,1,7.098000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-07,bacon,APU0000704111,"Bacon, sliced, per lb",7.118,1,7.118000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-08,bacon,APU0000704111,"Bacon, sliced, per lb",7.208,1,7.208000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-09,bacon,APU0000704111,"Bacon, sliced, per lb",7.290,1,7.290000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-11,bacon,APU0000704111,"Bacon, sliced, per lb",6.928,1,6.928000,lb,https://data.bls.gov/timeseries/APU0000704111
+2025-12,bacon,APU0000704111,"Bacon, sliced, per lb",6.760,1,6.760000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-01,bacon,APU0000704111,"Bacon, sliced, per lb",6.978,1,6.978000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-02,bacon,APU0000704111,"Bacon, sliced, per lb",6.904,1,6.904000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-03,bacon,APU0000704111,"Bacon, sliced, per lb",6.801,1,6.801000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-04,bacon,APU0000704111,"Bacon, sliced, per lb",6.826,1,6.826000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-05,bacon,APU0000704111,"Bacon, sliced, per lb",6.712,1,6.712000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-06,bacon,APU0000704111,"Bacon, sliced, per lb",6.561,1,6.561000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-07,bacon,APU0000704111,"Bacon, sliced, per lb",6.584,1,6.584000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-08,bacon,APU0000704111,"Bacon, sliced, per lb",6.605,1,6.605000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-09,bacon,APU0000704111,"Bacon, sliced, per lb",6.756,1,6.756000,lb,https://data.bls.gov/timeseries/APU0000704111
+2026-10,bacon,APU0000704111,"Bacon, sliced, per lb",6.686,1,6.686000,lb,https://data.bls.gov/timeseries/APU0000704111
+2023-01,beans,APU0000714233,"Beans, dried, any type, per lb",1.703,1,1.703000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-02,beans,APU0000714233,"Beans, dried, any type, per lb",1.697,1,1.697000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-03,beans,APU0000714233,"Beans, dried, any type, per lb",1.687,1,1.687000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-04,beans,APU0000714233,"Beans, dried, any type, per lb",1.659,1,1.659000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-05,beans,APU0000714233,"Beans, dried, any type, per lb",1.695,1,1.695000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-06,beans,APU0000714233,"Beans, dried, any type, per lb",1.707,1,1.707000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-07,beans,APU0000714233,"Beans, dried, any type, per lb",1.721,1,1.721000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-08,beans,APU0000714233,"Beans, dried, any type, per lb",1.702,1,1.702000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-09,beans,APU0000714233,"Beans, dried, any type, per lb",1.715,1,1.715000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-10,beans,APU0000714233,"Beans, dried, any type, per lb",1.625,1,1.625000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-11,beans,APU0000714233,"Beans, dried, any type, per lb",1.574,1,1.574000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-12,beans,APU0000714233,"Beans, dried, any type, per lb",1.592,1,1.592000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-01,beans,APU0000714233,"Beans, dried, any type, per lb",1.589,1,1.589000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-02,beans,APU0000714233,"Beans, dried, any type, per lb",1.625,1,1.625000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-03,beans,APU0000714233,"Beans, dried, any type, per lb",1.648,1,1.648000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-04,beans,APU0000714233,"Beans, dried, any type, per lb",1.647,1,1.647000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-05,beans,APU0000714233,"Beans, dried, any type, per lb",1.703,1,1.703000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-06,beans,APU0000714233,"Beans, dried, any type, per lb",1.681,1,1.681000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-07,beans,APU0000714233,"Beans, dried, any type, per lb",1.713,1,1.713000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-08,beans,APU0000714233,"Beans, dried, any type, per lb",1.711,1,1.711000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-09,beans,APU0000714233,"Beans, dried, any type, per lb",1.705,1,1.705000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-10,beans,APU0000714233,"Beans, dried, any type, per lb",1.678,1,1.678000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-11,beans,APU0000714233,"Beans, dried, any type, per lb",1.651,1,1.651000,lb,https://data.bls.gov/timeseries/APU0000714233
+2024-12,beans,APU0000714233,"Beans, dried, any type, per lb",1.655,1,1.655000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-01,beans,APU0000714233,"Beans, dried, any type, per lb",1.654,1,1.654000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-02,beans,APU0000714233,"Beans, dried, any type, per lb",1.631,1,1.631000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-03,beans,APU0000714233,"Beans, dried, any type, per lb",1.640,1,1.640000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-04,beans,APU0000714233,"Beans, dried, any type, per lb",1.674,1,1.674000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-05,beans,APU0000714233,"Beans, dried, any type, per lb",1.669,1,1.669000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-06,beans,APU0000714233,"Beans, dried, any type, per lb",1.588,1,1.588000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-07,beans,APU0000714233,"Beans, dried, any type, per lb",1.649,1,1.649000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-08,beans,APU0000714233,"Beans, dried, any type, per lb",1.547,1,1.547000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-09,beans,APU0000714233,"Beans, dried, any type, per lb",1.629,1,1.629000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-11,beans,APU0000714233,"Beans, dried, any type, per lb",1.686,1,1.686000,lb,https://data.bls.gov/timeseries/APU0000714233
+2025-12,beans,APU0000714233,"Beans, dried, any type, per lb",1.689,1,1.689000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-01,beans,APU0000714233,"Beans, dried, any type, per lb",1.702,1,1.702000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-02,beans,APU0000714233,"Beans, dried, any type, per lb",1.704,1,1.704000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-03,beans,APU0000714233,"Beans, dried, any type, per lb",1.696,1,1.696000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-04,beans,APU0000714233,"Beans, dried, any type, per lb",1.705,1,1.705000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-05,beans,APU0000714233,"Beans, dried, any type, per lb",1.669,1,1.669000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-06,beans,APU0000714233,"Beans, dried, any type, per lb",1.626,1,1.626000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-07,beans,APU0000714233,"Beans, dried, any type, per lb",1.689,1,1.689000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-08,beans,APU0000714233,"Beans, dried, any type, per lb",1.630,1,1.630000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-09,beans,APU0000714233,"Beans, dried, any type, per lb",1.669,1,1.669000,lb,https://data.bls.gov/timeseries/APU0000714233
+2026-10,beans,APU0000714233,"Beans, dried, any type, per lb",1.680,1,1.680000,lb,https://data.bls.gov/timeseries/APU0000714233
+2023-01,beef,APU0000703432,"Beef for stew, boneless, per lb",6.773,1,6.773000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-02,beef,APU0000703432,"Beef for stew, boneless, per lb",6.785,1,6.785000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-03,beef,APU0000703432,"Beef for stew, boneless, per lb",6.762,1,6.762000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-04,beef,APU0000703432,"Beef for stew, boneless, per lb",6.939,1,6.939000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-05,beef,APU0000703432,"Beef for stew, boneless, per lb",6.756,1,6.756000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-06,beef,APU0000703432,"Beef for stew, boneless, per lb",6.914,1,6.914000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-07,beef,APU0000703432,"Beef for stew, boneless, per lb",7.210,1,7.210000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-08,beef,APU0000703432,"Beef for stew, boneless, per lb",7.157,1,7.157000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-09,beef,APU0000703432,"Beef for stew, boneless, per lb",7.230,1,7.230000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-10,beef,APU0000703432,"Beef for stew, boneless, per lb",7.311,1,7.311000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-11,beef,APU0000703432,"Beef for stew, boneless, per lb",7.160,1,7.160000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-12,beef,APU0000703432,"Beef for stew, boneless, per lb",7.025,1,7.025000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-01,beef,APU0000703432,"Beef for stew, boneless, per lb",7.001,1,7.001000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-02,beef,APU0000703432,"Beef for stew, boneless, per lb",6.839,1,6.839000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-03,beef,APU0000703432,"Beef for stew, boneless, per lb",6.991,1,6.991000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-04,beef,APU0000703432,"Beef for stew, boneless, per lb",7.197,1,7.197000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-05,beef,APU0000703432,"Beef for stew, boneless, per lb",7.229,1,7.229000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-06,beef,APU0000703432,"Beef for stew, boneless, per lb",7.239,1,7.239000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-07,beef,APU0000703432,"Beef for stew, boneless, per lb",7.145,1,7.145000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-08,beef,APU0000703432,"Beef for stew, boneless, per lb",7.298,1,7.298000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-09,beef,APU0000703432,"Beef for stew, boneless, per lb",7.217,1,7.217000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-10,beef,APU0000703432,"Beef for stew, boneless, per lb",7.177,1,7.177000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-11,beef,APU0000703432,"Beef for stew, boneless, per lb",7.432,1,7.432000,lb,https://data.bls.gov/timeseries/APU0000703432
+2024-12,beef,APU0000703432,"Beef for stew, boneless, per lb",7.393,1,7.393000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-01,beef,APU0000703432,"Beef for stew, boneless, per lb",7.318,1,7.318000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-02,beef,APU0000703432,"Beef for stew, boneless, per lb",7.677,1,7.677000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-03,beef,APU0000703432,"Beef for stew, boneless, per lb",7.601,1,7.601000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-04,beef,APU0000703432,"Beef for stew, boneless, per lb",7.733,1,7.733000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-05,beef,APU0000703432,"Beef for stew, boneless, per lb",7.729,1,7.729000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-06,beef,APU0000703432,"Beef for stew, boneless, per lb",8.016,1,8.016000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-07,beef,APU0000703432,"Beef for stew, boneless, per lb",8.188,1,8.188000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-08,beef,APU0000703432,"Beef for stew, boneless, per lb",8.815,1,8.815000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-09,beef,APU0000703432,"Beef for stew, boneless, per lb",8.680,1,8.680000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-11,beef,APU0000703432,"Beef for stew, boneless, per lb",9.172,1,9.172000,lb,https://data.bls.gov/timeseries/APU0000703432
+2025-12,beef,APU0000703432,"Beef for stew, boneless, per lb",8.630,1,8.630000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-01,beef,APU0000703432,"Beef for stew, boneless, per lb",8.463,1,8.463000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-02,beef,APU0000703432,"Beef for stew, boneless, per lb",8.358,1,8.358000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-03,beef,APU0000703432,"Beef for stew, boneless, per lb",8.413,1,8.413000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-04,beef,APU0000703432,"Beef for stew, boneless, per lb",8.651,1,8.651000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-05,beef,APU0000703432,"Beef for stew, boneless, per lb",9.003,1,9.003000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-06,beef,APU0000703432,"Beef for stew, boneless, per lb",9.304,1,9.304000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-07,beef,APU0000703432,"Beef for stew, boneless, per lb",9.025,1,9.025000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-08,beef,APU0000703432,"Beef for stew, boneless, per lb",8.587,1,8.587000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-09,beef,APU0000703432,"Beef for stew, boneless, per lb",8.533,1,8.533000,lb,https://data.bls.gov/timeseries/APU0000703432
+2026-10,beef,APU0000703432,"Beef for stew, boneless, per lb",8.674,1,8.674000,lb,https://data.bls.gov/timeseries/APU0000703432
+2023-01,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.888,1,1.888000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-02,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.896,1,1.896000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-03,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.936,1,1.936000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-04,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.989,1,1.989000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-05,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.951,1,1.951000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-06,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.937,1,1.937000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-07,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.980,1,1.980000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-08,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.970,1,1.970000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-09,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.972,1,1.972000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-10,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",2.002,1,2.002000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-11,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.976,1,1.976000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-12,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",2.024,1,2.024000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-01,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",2.033,1,2.033000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-02,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",2.006,1,2.006000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-03,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.997,1,1.997000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-04,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.998,1,1.998000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-05,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.971,1,1.971000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-06,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.973,1,1.973000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-07,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.975,1,1.975000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-08,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.951,1,1.951000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-09,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.976,1,1.976000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-10,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.937,1,1.937000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-11,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.916,1,1.916000,lb,https://data.bls.gov/timeseries/APU0000702111
+2024-12,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.912,1,1.912000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-01,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.925,1,1.925000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-02,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.925,1,1.925000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-03,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.880,1,1.880000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-04,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.913,1,1.913000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-05,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.876,1,1.876000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-06,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.864,1,1.864000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-07,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.851,1,1.851000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-08,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.841,1,1.841000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-09,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.867,1,1.867000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-11,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.790,1,1.790000,lb,https://data.bls.gov/timeseries/APU0000702111
+2025-12,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.833,1,1.833000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-01,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.843,1,1.843000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-02,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.850,1,1.850000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-03,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.808,1,1.808000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-04,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.869,1,1.869000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-05,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.830,1,1.830000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-06,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.814,1,1.814000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-07,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.820,1,1.820000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-08,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.823,1,1.823000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-09,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.830,1,1.830000,lb,https://data.bls.gov/timeseries/APU0000702111
+2026-10,bread,APU0000702111,"Bread, white, pan, per lb (also buns, tortillas, pita)",1.861,1,1.861000,lb,https://data.bls.gov/timeseries/APU0000702111
+2023-01,butter,APU0000FS1101,"Butter, stick, per lb",4.882,1,4.882000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-02,butter,APU0000FS1101,"Butter, stick, per lb",4.869,1,4.869000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-03,butter,APU0000FS1101,"Butter, stick, per lb",4.663,1,4.663000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-04,butter,APU0000FS1101,"Butter, stick, per lb",4.452,1,4.452000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-05,butter,APU0000FS1101,"Butter, stick, per lb",4.549,1,4.549000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-06,butter,APU0000FS1101,"Butter, stick, per lb",4.452,1,4.452000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-07,butter,APU0000FS1101,"Butter, stick, per lb",4.465,1,4.465000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-08,butter,APU0000FS1101,"Butter, stick, per lb",4.411,1,4.411000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-09,butter,APU0000FS1101,"Butter, stick, per lb",4.407,1,4.407000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-10,butter,APU0000FS1101,"Butter, stick, per lb",4.550,1,4.550000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-11,butter,APU0000FS1101,"Butter, stick, per lb",4.520,1,4.520000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-12,butter,APU0000FS1101,"Butter, stick, per lb",4.505,1,4.505000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-01,butter,APU0000FS1101,"Butter, stick, per lb",4.659,1,4.659000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-02,butter,APU0000FS1101,"Butter, stick, per lb",4.634,1,4.634000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-03,butter,APU0000FS1101,"Butter, stick, per lb",4.484,1,4.484000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-04,butter,APU0000FS1101,"Butter, stick, per lb",4.629,1,4.629000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-05,butter,APU0000FS1101,"Butter, stick, per lb",4.589,1,4.589000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-06,butter,APU0000FS1101,"Butter, stick, per lb",4.696,1,4.696000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-07,butter,APU0000FS1101,"Butter, stick, per lb",4.897,1,4.897000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-08,butter,APU0000FS1101,"Butter, stick, per lb",4.796,1,4.796000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-09,butter,APU0000FS1101,"Butter, stick, per lb",5.004,1,5.004000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-10,butter,APU0000FS1101,"Butter, stick, per lb",4.937,1,4.937000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-11,butter,APU0000FS1101,"Butter, stick, per lb",4.794,1,4.794000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2024-12,butter,APU0000FS1101,"Butter, stick, per lb",4.728,1,4.728000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-01,butter,APU0000FS1101,"Butter, stick, per lb",4.912,1,4.912000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-02,butter,APU0000FS1101,"Butter, stick, per lb",4.869,1,4.869000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-03,butter,APU0000FS1101,"Butter, stick, per lb",4.816,1,4.816000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-04,butter,APU0000FS1101,"Butter, stick, per lb",4.780,1,4.780000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-05,butter,APU0000FS1101,"Butter, stick, per lb",4.952,1,4.952000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-06,butter,APU0000FS1101,"Butter, stick, per lb",4.872,1,4.872000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-07,butter,APU0000FS1101,"Butter, stick, per lb",4.797,1,4.797000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-08,butter,APU0000FS1101,"Butter, stick, per lb",4.828,1,4.828000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-09,butter,APU0000FS1101,"Butter, stick, per lb",4.787,1,4.787000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-11,butter,APU0000FS1101,"Butter, stick, per lb",4.310,1,4.310000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2025-12,butter,APU0000FS1101,"Butter, stick, per lb",4.408,1,4.408000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-01,butter,APU0000FS1101,"Butter, stick, per lb",4.383,1,4.383000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-02,butter,APU0000FS1101,"Butter, stick, per lb",4.314,1,4.314000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-03,butter,APU0000FS1101,"Butter, stick, per lb",4.258,1,4.258000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-04,butter,APU0000FS1101,"Butter, stick, per lb",4.216,1,4.216000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-05,butter,APU0000FS1101,"Butter, stick, per lb",3.929,1,3.929000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-06,butter,APU0000FS1101,"Butter, stick, per lb",3.816,1,3.816000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-07,butter,APU0000FS1101,"Butter, stick, per lb",3.922,1,3.922000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-08,butter,APU0000FS1101,"Butter, stick, per lb",4.021,1,4.021000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-09,butter,APU0000FS1101,"Butter, stick, per lb",3.959,1,3.959000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2026-10,butter,APU0000FS1101,"Butter, stick, per lb",3.977,1,3.977000,lb,https://data.bls.gov/timeseries/APU0000FS1101
+2023-01,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.946,1,5.946000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-02,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.850,1,5.850000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-03,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.922,1,5.922000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-04,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.940,1,5.940000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-05,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.841,1,5.841000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-06,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.681,1,5.681000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-07,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.911,1,5.911000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-08,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.897,1,5.897000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-09,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.846,1,5.846000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-10,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.846,1,5.846000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-11,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.650,1,5.650000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-12,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.545,1,5.545000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-01,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.724,1,5.724000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-02,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.726,1,5.726000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-03,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.689,1,5.689000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-04,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.510,1,5.510000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-05,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.551,1,5.551000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-06,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.537,1,5.537000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-07,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.599,1,5.599000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-08,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.763,1,5.763000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-09,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.731,1,5.731000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-10,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.844,1,5.844000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-11,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.676,1,5.676000,lb,https://data.bls.gov/timeseries/APU0000710212
+2024-12,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.621,1,5.621000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-01,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.698,1,5.698000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-02,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.536,1,5.536000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-03,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.737,1,5.737000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-04,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.743,1,5.743000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-05,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.908,1,5.908000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-06,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.999,1,5.999000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-07,cheese,APU0000710212,"Cheddar cheese, natural, per lb",6.041,1,6.041000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-08,cheese,APU0000710212,"Cheddar cheese, natural, per lb",6.123,1,6.123000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-09,cheese,APU0000710212,"Cheddar cheese, natural, per lb",6.049,1,6.049000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-11,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.636,1,5.636000,lb,https://data.bls.gov/timeseries/APU0000710212
+2025-12,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.789,1,5.789000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-01,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.982,1,5.982000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-02,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.987,1,5.987000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-03,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.970,1,5.970000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-04,cheese,APU0000710212,"Cheddar cheese, natural, per lb",6.029,1,6.029000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-05,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.685,1,5.685000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-06,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.960,1,5.960000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-07,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.741,1,5.741000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-08,cheese,APU0000710212,"Cheddar cheese, natural, per lb",5.983,1,5.983000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-09,cheese,APU0000710212,"Cheddar cheese, natural, per lb",6.133,1,6.133000,lb,https://data.bls.gov/timeseries/APU0000710212
+2026-10,cheese,APU0000710212,"Cheddar cheese, natural, per lb",6.127,1,6.127000,lb,https://data.bls.gov/timeseries/APU0000710212
+2023-01,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.315,1,4.315000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-02,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.365,1,4.365000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-03,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.324,1,4.324000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-04,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.405,1,4.405000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-05,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.236,1,4.236000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-06,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.193,1,4.193000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-07,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.141,1,4.141000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-08,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.179,1,4.179000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-09,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.229,1,4.229000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-10,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.222,1,4.222000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-11,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.060,1,4.060000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-12,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.082,1,4.082000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-01,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.086,1,4.086000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-02,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.105,1,4.105000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-03,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.106,1,4.106000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-04,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.061,1,4.061000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-05,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.118,1,4.118000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-06,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.046,1,4.046000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-07,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",3.946,1,3.946000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-08,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",3.952,1,3.952000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-09,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",3.974,1,3.974000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-10,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.037,1,4.037000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-11,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.011,1,4.011000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2024-12,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.104,1,4.104000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-01,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",3.969,1,3.969000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-02,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.079,1,4.079000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-03,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.160,1,4.160000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-04,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.180,1,4.180000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-05,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.216,1,4.216000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-06,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.239,1,4.239000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-07,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.204,1,4.204000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-08,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.212,1,4.212000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-09,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.172,1,4.172000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-11,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.150,1,4.150000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2025-12,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.153,1,4.153000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-01,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.165,1,4.165000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-02,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.142,1,4.142000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-03,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.172,1,4.172000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-04,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.168,1,4.168000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-05,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.171,1,4.171000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-06,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.181,1,4.181000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-07,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.153,1,4.153000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-08,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.173,1,4.173000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-09,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.203,1,4.203000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2026-10,chicken,APU0000FF1101,"Chicken breast, boneless, per lb",4.099,1,4.099000,lb,https://data.bls.gov/timeseries/APU0000FF1101
+2023-01,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.869,1,1.869000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-02,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.843,1,1.843000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-03,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.858,1,1.858000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-04,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.935,1,1.935000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-05,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.919,1,1.919000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-06,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.998,1,1.998000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-07,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",2.025,1,2.025000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-08,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",2.031,1,2.031000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-09,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.899,1,1.899000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-10,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.917,1,1.917000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-11,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.851,1,1.851000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-12,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.856,1,1.856000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-01,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.825,1,1.825000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-02,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.752,1,1.752000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-03,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.821,1,1.821000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-04,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.815,1,1.815000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-05,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.833,1,1.833000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-06,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.771,1,1.771000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-07,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.786,1,1.786000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-08,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.835,1,1.835000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-09,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.873,1,1.873000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-10,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.830,1,1.830000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-11,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.770,1,1.770000,lb,https://data.bls.gov/timeseries/APU0000706212
+2024-12,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.781,1,1.781000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-01,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.791,1,1.791000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-02,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.792,1,1.792000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-03,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.805,1,1.805000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-04,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.789,1,1.789000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-05,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.785,1,1.785000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-06,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.815,1,1.815000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-07,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.799,1,1.799000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-08,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.797,1,1.797000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-09,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.796,1,1.796000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-11,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.795,1,1.795000,lb,https://data.bls.gov/timeseries/APU0000706212
+2025-12,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.725,1,1.725000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-01,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.735,1,1.735000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-02,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.707,1,1.707000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-03,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.739,1,1.739000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-04,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.712,1,1.712000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-05,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.786,1,1.786000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-06,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.688,1,1.688000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-07,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.723,1,1.723000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-08,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.670,1,1.670000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-09,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.739,1,1.739000,lb,https://data.bls.gov/timeseries/APU0000706212
+2026-10,chicken_legs,APU0000706212,"Chicken legs, bone-in, per lb",1.747,1,1.747000,lb,https://data.bls.gov/timeseries/APU0000706212
+2023-01,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",4.823,12,0.401917,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-02,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",4.211,12,0.350917,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-03,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.446,12,0.287167,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-04,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.270,12,0.272500,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-05,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.666,12,0.222167,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-06,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.219,12,0.184917,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-07,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.094,12,0.174500,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-08,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.043,12,0.170250,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-09,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.065,12,0.172083,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-10,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.072,12,0.172667,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-11,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.138,12,0.178167,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-12,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.507,12,0.208917,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-01,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.522,12,0.210167,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-02,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.996,12,0.249667,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-03,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.992,12,0.249333,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-04,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.864,12,0.238667,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-05,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.699,12,0.224917,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-06,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.715,12,0.226250,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-07,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.080,12,0.256667,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-08,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.204,12,0.267000,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-09,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.821,12,0.318417,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-10,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.370,12,0.280833,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-11,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.649,12,0.304083,egg,https://data.bls.gov/timeseries/APU0000708111
+2024-12,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",4.146,12,0.345500,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-01,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",4.953,12,0.412750,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-02,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",5.897,12,0.491417,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-03,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",6.227,12,0.518917,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-04,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",5.122,12,0.426833,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-05,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",4.548,12,0.379000,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-06,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.775,12,0.314583,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-07,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.599,12,0.299917,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-08,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.587,12,0.298917,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-09,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",3.488,12,0.290667,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-11,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.860,12,0.238333,egg,https://data.bls.gov/timeseries/APU0000708111
+2025-12,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.712,12,0.226000,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-01,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.577,12,0.214750,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-02,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.500,12,0.208333,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-03,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.348,12,0.195667,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-04,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.250,12,0.187500,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-05,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.191,12,0.182583,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-06,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.141,12,0.178417,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-07,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.189,12,0.182417,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-08,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.272,12,0.189333,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-09,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.272,12,0.189333,egg,https://data.bls.gov/timeseries/APU0000708111
+2026-10,egg,APU0000708111,"Eggs, grade A, large, per doz (per egg)",2.320,12,0.193333,egg,https://data.bls.gov/timeseries/APU0000708111
+2023-01,flour,APU0000701111,"Flour, white, all purpose, per lb",0.540,1,0.540000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-02,flour,APU0000701111,"Flour, white, all purpose, per lb",0.550,1,0.550000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-03,flour,APU0000701111,"Flour, white, all purpose, per lb",0.546,1,0.546000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-04,flour,APU0000701111,"Flour, white, all purpose, per lb",0.542,1,0.542000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-05,flour,APU0000701111,"Flour, white, all purpose, per lb",0.544,1,0.544000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-06,flour,APU0000701111,"Flour, white, all purpose, per lb",0.551,1,0.551000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-07,flour,APU0000701111,"Flour, white, all purpose, per lb",0.564,1,0.564000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-08,flour,APU0000701111,"Flour, white, all purpose, per lb",0.566,1,0.566000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-09,flour,APU0000701111,"Flour, white, all purpose, per lb",0.565,1,0.565000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-10,flour,APU0000701111,"Flour, white, all purpose, per lb",0.562,1,0.562000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-11,flour,APU0000701111,"Flour, white, all purpose, per lb",0.541,1,0.541000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-12,flour,APU0000701111,"Flour, white, all purpose, per lb",0.538,1,0.538000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-01,flour,APU0000701111,"Flour, white, all purpose, per lb",0.554,1,0.554000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-02,flour,APU0000701111,"Flour, white, all purpose, per lb",0.558,1,0.558000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-03,flour,APU0000701111,"Flour, white, all purpose, per lb",0.565,1,0.565000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-04,flour,APU0000701111,"Flour, white, all purpose, per lb",0.574,1,0.574000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-05,flour,APU0000701111,"Flour, white, all purpose, per lb",0.570,1,0.570000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-06,flour,APU0000701111,"Flour, white, all purpose, per lb",0.575,1,0.575000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-07,flour,APU0000701111,"Flour, white, all purpose, per lb",0.574,1,0.574000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-08,flour,APU0000701111,"Flour, white, all purpose, per lb",0.574,1,0.574000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-09,flour,APU0000701111,"Flour, white, all purpose, per lb",0.573,1,0.573000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-10,flour,APU0000701111,"Flour, white, all purpose, per lb",0.566,1,0.566000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-11,flour,APU0000701111,"Flour, white, all purpose, per lb",0.552,1,0.552000,lb,https://data.bls.gov/timeseries/APU0000701111
+2024-12,flour,APU0000701111,"Flour, white, all purpose, per lb",0.548,1,0.548000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-01,flour,APU0000701111,"Flour, white, all purpose, per lb",0.561,1,0.561000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-02,flour,APU0000701111,"Flour, white, all purpose, per lb",0.561,1,0.561000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-03,flour,APU0000701111,"Flour, white, all purpose, per lb",0.565,1,0.565000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-04,flour,APU0000701111,"Flour, white, all purpose, per lb",0.557,1,0.557000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-05,flour,APU0000701111,"Flour, white, all purpose, per lb",0.562,1,0.562000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-06,flour,APU0000701111,"Flour, white, all purpose, per lb",0.574,1,0.574000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-07,flour,APU0000701111,"Flour, white, all purpose, per lb",0.557,1,0.557000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-08,flour,APU0000701111,"Flour, white, all purpose, per lb",0.557,1,0.557000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-09,flour,APU0000701111,"Flour, white, all purpose, per lb",0.563,1,0.563000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-11,flour,APU0000701111,"Flour, white, all purpose, per lb",0.552,1,0.552000,lb,https://data.bls.gov/timeseries/APU0000701111
+2025-12,flour,APU0000701111,"Flour, white, all purpose, per lb",0.554,1,0.554000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-01,flour,APU0000701111,"Flour, white, all purpose, per lb",0.565,1,0.565000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-02,flour,APU0000701111,"Flour, white, all purpose, per lb",0.549,1,0.549000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-03,flour,APU0000701111,"Flour, white, all purpose, per lb",0.549,1,0.549000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-04,flour,APU0000701111,"Flour, white, all purpose, per lb",0.543,1,0.543000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-05,flour,APU0000701111,"Flour, white, all purpose, per lb",0.544,1,0.544000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-06,flour,APU0000701111,"Flour, white, all purpose, per lb",0.544,1,0.544000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-07,flour,APU0000701111,"Flour, white, all purpose, per lb",0.543,1,0.543000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-08,flour,APU0000701111,"Flour, white, all purpose, per lb",0.548,1,0.548000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-09,flour,APU0000701111,"Flour, white, all purpose, per lb",0.545,1,0.545000,lb,https://data.bls.gov/timeseries/APU0000701111
+2026-10,flour,APU0000701111,"Flour, white, all purpose, per lb",0.536,1,0.536000,lb,https://data.bls.gov/timeseries/APU0000701111
+2023-01,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",4.791,1,4.791000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-02,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",4.778,1,4.778000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-03,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",4.813,1,4.813000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-04,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",4.790,1,4.790000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-05,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",4.960,1,4.960000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-06,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.028,1,5.028000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-07,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.102,1,5.102000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-08,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.076,1,5.076000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-09,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.109,1,5.109000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-10,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.226,1,5.226000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-11,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.353,1,5.353000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-12,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.210,1,5.210000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-01,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.030,1,5.030000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-02,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.132,1,5.132000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-03,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.132,1,5.132000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-04,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.236,1,5.236000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-05,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.148,1,5.148000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-06,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.472,1,5.472000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-07,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.497,1,5.497000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-08,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.577,1,5.577000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-09,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.670,1,5.670000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-10,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.588,1,5.588000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-11,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.628,1,5.628000,lb,https://data.bls.gov/timeseries/APU0000703112
+2024-12,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.605,1,5.605000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-01,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.545,1,5.545000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-02,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.625,1,5.625000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-03,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.790,1,5.790000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-04,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.801,1,5.801000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-05,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",5.981,1,5.981000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-06,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.120,1,6.120000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-07,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.254,1,6.254000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-08,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.318,1,6.318000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-09,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.323,1,6.323000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-11,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.540,1,6.540000,lb,https://data.bls.gov/timeseries/APU0000703112
+2025-12,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.687,1,6.687000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-01,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.752,1,6.752000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-02,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.739,1,6.739000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-03,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.701,1,6.701000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-04,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.899,1,6.899000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-05,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.745,1,6.745000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-06,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.825,1,6.825000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-07,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.885,1,6.885000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-08,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.923,1,6.923000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-09,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.792,1,6.792000,lb,https://data.bls.gov/timeseries/APU0000703112
+2026-10,ground_beef,APU0000703112,"Ground beef, 100% beef, per lb",6.755,1,6.755000,lb,https://data.bls.gov/timeseries/APU0000703112
+2023-01,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.484,1,5.484000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-02,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.668,1,5.668000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-03,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.679,1,5.679000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-04,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.564,1,5.564000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-05,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.813,1,5.813000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-06,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.898,1,5.898000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-07,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.889,1,5.889000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-08,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.895,1,5.895000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-09,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.882,1,5.882000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-10,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.766,1,5.766000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-11,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.528,1,5.528000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-12,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.497,1,5.497000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-01,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.532,1,5.532000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-02,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.666,1,5.666000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-03,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.572,1,5.572000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-04,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.594,1,5.594000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-05,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.668,1,5.668000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-06,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.567,1,5.567000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-07,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.727,1,5.727000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-08,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.633,1,5.633000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-09,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.630,1,5.630000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-10,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.670,1,5.670000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-11,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.630,1,5.630000,lb,https://data.bls.gov/timeseries/APU0000704312
+2024-12,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.458,1,5.458000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-01,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.476,1,5.476000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-02,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.520,1,5.520000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-03,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.603,1,5.603000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-04,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.473,1,5.473000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-05,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.453,1,5.453000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-06,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.379,1,5.379000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-07,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.685,1,5.685000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-08,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.432,1,5.432000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-09,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.478,1,5.478000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-11,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.462,1,5.462000,lb,https://data.bls.gov/timeseries/APU0000704312
+2025-12,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.356,1,5.356000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-01,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.500,1,5.500000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-02,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.616,1,5.616000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-03,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.479,1,5.479000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-04,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.405,1,5.405000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-05,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.457,1,5.457000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-06,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.508,1,5.508000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-07,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.492,1,5.492000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-08,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.382,1,5.382000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-09,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.450,1,5.450000,lb,https://data.bls.gov/timeseries/APU0000704312
+2026-10,ham,APU0000704312,"Ham, boneless, excluding canned, per lb",5.260,1,5.260000,lb,https://data.bls.gov/timeseries/APU0000704312
+2023-05,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.700,1,1.700000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-06,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.605,1,1.605000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-07,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.666,1,1.666000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-08,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.596,1,1.596000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-09,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.660,1,1.660000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-10,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.522,1,1.522000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-11,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.675,1,1.675000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-12,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.530,1,1.530000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-01,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.439,1,1.439000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-02,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.443,1,1.443000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-03,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.680,1,1.680000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-04,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.754,1,1.754000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-05,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.692,1,1.692000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-06,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.741,1,1.741000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-07,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.643,1,1.643000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-08,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.517,1,1.517000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-09,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.435,1,1.435000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-10,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.414,1,1.414000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-11,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.641,1,1.641000,lb,https://data.bls.gov/timeseries/APU0000712211
+2024-12,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.705,1,1.705000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-01,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.618,1,1.618000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-02,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.522,1,1.522000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-03,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.465,1,1.465000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-04,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.515,1,1.515000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-05,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.438,1,1.438000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-06,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.378,1,1.378000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-07,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.579,1,1.579000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-08,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.673,1,1.673000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-09,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.731,1,1.731000,lb,https://data.bls.gov/timeseries/APU0000712211
+2025-11,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.987,1,1.987000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-01,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.699,1,1.699000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-03,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.719,1,1.719000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-04,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.629,1,1.629000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-05,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.964,1,1.964000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-06,lettuce,APU0000712211,"Lettuce, iceberg, per lb",2.012,1,2.012000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-07,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.753,1,1.753000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-08,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.471,1,1.471000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-09,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.636,1,1.636000,lb,https://data.bls.gov/timeseries/APU0000712211
+2026-10,lettuce,APU0000712211,"Lettuce, iceberg, per lb",1.962,1,1.962000,lb,https://data.bls.gov/timeseries/APU0000712211
+2023-01,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.204,128,0.032844,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-02,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.163,128,0.032523,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-03,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.098,128,0.032016,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-04,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.042,128,0.031578,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-05,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.042,128,0.031578,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-06,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.985,128,0.031133,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-07,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.971,128,0.031023,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-08,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.927,128,0.030680,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-09,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.965,128,0.030977,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-10,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.927,128,0.030680,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-11,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.997,128,0.031227,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-12,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.008,128,0.031313,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-01,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.958,128,0.030922,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-02,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.940,128,0.030781,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-03,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.893,128,0.030414,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-04,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.868,128,0.030219,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-05,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.864,128,0.030187,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-06,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.956,128,0.030906,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-07,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.983,128,0.031117,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-08,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.044,128,0.031594,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-09,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.021,128,0.031414,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-10,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.041,128,0.031570,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-11,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.138,128,0.032328,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2024-12,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.101,128,0.032039,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-01,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.025,128,0.031445,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-02,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.026,128,0.031453,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-03,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.050,128,0.031641,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-04,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.074,128,0.031828,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-05,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.022,128,0.031422,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-06,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.029,128,0.031477,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-07,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.162,128,0.032516,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-08,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.171,128,0.032586,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-09,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.129,128,0.032258,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-11,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",3.997,128,0.031227,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2025-12,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.047,128,0.031617,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-01,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.100,128,0.032031,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-02,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.026,128,0.031453,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-03,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.067,128,0.031773,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-04,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.136,128,0.032313,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-05,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.217,128,0.032945,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-06,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.317,128,0.033727,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-07,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.313,128,0.033695,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-08,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.229,128,0.033039,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-09,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.106,128,0.032078,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2026-10,milk,APU0000709112,"Milk, fresh, whole, fortified, per gal (per fl oz)",4.101,128,0.032039,fl oz,https://data.bls.gov/timeseries/APU0000709112
+2023-01,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.475,1,1.475000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-02,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.486,1,1.486000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-03,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.465,1,1.465000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-04,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.461,1,1.461000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-05,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.458,1,1.458000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-06,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.466,1,1.466000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-07,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.420,1,1.420000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-08,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.404,1,1.404000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-09,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.410,1,1.410000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-10,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.400,1,1.400000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-11,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.369,1,1.369000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-12,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.377,1,1.377000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-01,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.425,1,1.425000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-02,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.432,1,1.432000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-03,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.420,1,1.420000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-04,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.422,1,1.422000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-05,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.377,1,1.377000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-06,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.435,1,1.435000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-07,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.432,1,1.432000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-08,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.421,1,1.421000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-09,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.431,1,1.431000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-10,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.445,1,1.445000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-11,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.367,1,1.367000,lb,https://data.bls.gov/timeseries/APU0000701322
+2024-12,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.380,1,1.380000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-01,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.366,1,1.366000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-02,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.381,1,1.381000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-03,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.379,1,1.379000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-04,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.361,1,1.361000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-05,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.322,1,1.322000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-06,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.318,1,1.318000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-07,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.306,1,1.306000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-08,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.294,1,1.294000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-09,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.205,1,1.205000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-11,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.300,1,1.300000,lb,https://data.bls.gov/timeseries/APU0000701322
+2025-12,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.311,1,1.311000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-01,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.325,1,1.325000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-02,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.323,1,1.323000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-03,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.308,1,1.308000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-04,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.343,1,1.343000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-05,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.374,1,1.374000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-06,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.367,1,1.367000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-07,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.381,1,1.381000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-08,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.374,1,1.374000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-09,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.375,1,1.375000,lb,https://data.bls.gov/timeseries/APU0000701322
+2026-10,pasta,APU0000701322,"Spaghetti and macaroni, per lb",1.384,1,1.384000,lb,https://data.bls.gov/timeseries/APU0000701322
+2023-01,pork,APU0000FD3101,"All pork chops, per lb",4.140,1,4.140000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-02,pork,APU0000FD3101,"All pork chops, per lb",4.256,1,4.256000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-03,pork,APU0000FD3101,"All pork chops, per lb",4.165,1,4.165000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-04,pork,APU0000FD3101,"All pork chops, per lb",4.099,1,4.099000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-05,pork,APU0000FD3101,"All pork chops, per lb",4.189,1,4.189000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-06,pork,APU0000FD3101,"All pork chops, per lb",4.241,1,4.241000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-07,pork,APU0000FD3101,"All pork chops, per lb",4.238,1,4.238000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-08,pork,APU0000FD3101,"All pork chops, per lb",4.359,1,4.359000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-09,pork,APU0000FD3101,"All pork chops, per lb",4.327,1,4.327000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-10,pork,APU0000FD3101,"All pork chops, per lb",4.452,1,4.452000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-11,pork,APU0000FD3101,"All pork chops, per lb",4.343,1,4.343000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-12,pork,APU0000FD3101,"All pork chops, per lb",4.256,1,4.256000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-01,pork,APU0000FD3101,"All pork chops, per lb",4.236,1,4.236000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-02,pork,APU0000FD3101,"All pork chops, per lb",4.157,1,4.157000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-03,pork,APU0000FD3101,"All pork chops, per lb",4.256,1,4.256000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-04,pork,APU0000FD3101,"All pork chops, per lb",4.235,1,4.235000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-05,pork,APU0000FD3101,"All pork chops, per lb",4.391,1,4.391000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-06,pork,APU0000FD3101,"All pork chops, per lb",4.397,1,4.397000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-07,pork,APU0000FD3101,"All pork chops, per lb",4.409,1,4.409000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-08,pork,APU0000FD3101,"All pork chops, per lb",4.403,1,4.403000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-09,pork,APU0000FD3101,"All pork chops, per lb",4.328,1,4.328000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-10,pork,APU0000FD3101,"All pork chops, per lb",4.273,1,4.273000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-11,pork,APU0000FD3101,"All pork chops, per lb",4.430,1,4.430000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2024-12,pork,APU0000FD3101,"All pork chops, per lb",4.308,1,4.308000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-01,pork,APU0000FD3101,"All pork chops, per lb",4.249,1,4.249000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-02,pork,APU0000FD3101,"All pork chops, per lb",4.226,1,4.226000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-03,pork,APU0000FD3101,"All pork chops, per lb",4.341,1,4.341000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-04,pork,APU0000FD3101,"All pork chops, per lb",4.244,1,4.244000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-05,pork,APU0000FD3101,"All pork chops, per lb",4.220,1,4.220000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-06,pork,APU0000FD3101,"All pork chops, per lb",4.264,1,4.264000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-07,pork,APU0000FD3101,"All pork chops, per lb",4.333,1,4.333000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-08,pork,APU0000FD3101,"All pork chops, per lb",4.299,1,4.299000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-09,pork,APU0000FD3101,"All pork chops, per lb",4.349,1,4.349000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-11,pork,APU0000FD3101,"All pork chops, per lb",4.097,1,4.097000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2025-12,pork,APU0000FD3101,"All pork chops, per lb",4.298,1,4.298000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-01,pork,APU0000FD3101,"All pork chops, per lb",4.150,1,4.150000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-02,pork,APU0000FD3101,"All pork chops, per lb",4.191,1,4.191000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-03,pork,APU0000FD3101,"All pork chops, per lb",4.181,1,4.181000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-04,pork,APU0000FD3101,"All pork chops, per lb",4.331,1,4.331000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-05,pork,APU0000FD3101,"All pork chops, per lb",4.389,1,4.389000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-06,pork,APU0000FD3101,"All pork chops, per lb",4.336,1,4.336000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-07,pork,APU0000FD3101,"All pork chops, per lb",4.244,1,4.244000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-08,pork,APU0000FD3101,"All pork chops, per lb",4.239,1,4.239000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-09,pork,APU0000FD3101,"All pork chops, per lb",4.219,1,4.219000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2026-10,pork,APU0000FD3101,"All pork chops, per lb",4.176,1,4.176000,lb,https://data.bls.gov/timeseries/APU0000FD3101
+2023-01,potatoes,APU0000712112,"Potatoes, white, per lb",0.953,1,0.953000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-02,potatoes,APU0000712112,"Potatoes, white, per lb",0.978,1,0.978000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-03,potatoes,APU0000712112,"Potatoes, white, per lb",0.968,1,0.968000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-04,potatoes,APU0000712112,"Potatoes, white, per lb",0.980,1,0.980000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-05,potatoes,APU0000712112,"Potatoes, white, per lb",1.008,1,1.008000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-06,potatoes,APU0000712112,"Potatoes, white, per lb",1.026,1,1.026000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-07,potatoes,APU0000712112,"Potatoes, white, per lb",1.051,1,1.051000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-08,potatoes,APU0000712112,"Potatoes, white, per lb",1.094,1,1.094000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-09,potatoes,APU0000712112,"Potatoes, white, per lb",1.047,1,1.047000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-10,potatoes,APU0000712112,"Potatoes, white, per lb",1.006,1,1.006000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-11,potatoes,APU0000712112,"Potatoes, white, per lb",0.983,1,0.983000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-12,potatoes,APU0000712112,"Potatoes, white, per lb",0.961,1,0.961000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-01,potatoes,APU0000712112,"Potatoes, white, per lb",0.978,1,0.978000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-02,potatoes,APU0000712112,"Potatoes, white, per lb",0.971,1,0.971000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-03,potatoes,APU0000712112,"Potatoes, white, per lb",0.972,1,0.972000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-04,potatoes,APU0000712112,"Potatoes, white, per lb",0.971,1,0.971000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-05,potatoes,APU0000712112,"Potatoes, white, per lb",0.964,1,0.964000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-06,potatoes,APU0000712112,"Potatoes, white, per lb",0.993,1,0.993000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-07,potatoes,APU0000712112,"Potatoes, white, per lb",1.017,1,1.017000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-08,potatoes,APU0000712112,"Potatoes, white, per lb",1.006,1,1.006000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-09,potatoes,APU0000712112,"Potatoes, white, per lb",1.009,1,1.009000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-10,potatoes,APU0000712112,"Potatoes, white, per lb",0.998,1,0.998000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-11,potatoes,APU0000712112,"Potatoes, white, per lb",0.956,1,0.956000,lb,https://data.bls.gov/timeseries/APU0000712112
+2024-12,potatoes,APU0000712112,"Potatoes, white, per lb",0.949,1,0.949000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-01,potatoes,APU0000712112,"Potatoes, white, per lb",0.973,1,0.973000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-02,potatoes,APU0000712112,"Potatoes, white, per lb",0.957,1,0.957000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-03,potatoes,APU0000712112,"Potatoes, white, per lb",0.950,1,0.950000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-04,potatoes,APU0000712112,"Potatoes, white, per lb",0.967,1,0.967000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-05,potatoes,APU0000712112,"Potatoes, white, per lb",0.958,1,0.958000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-06,potatoes,APU0000712112,"Potatoes, white, per lb",0.981,1,0.981000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-07,potatoes,APU0000712112,"Potatoes, white, per lb",0.978,1,0.978000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-08,potatoes,APU0000712112,"Potatoes, white, per lb",1.001,1,1.001000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-09,potatoes,APU0000712112,"Potatoes, white, per lb",1.014,1,1.014000,lb,https://data.bls.gov/timeseries/APU0000712112
+2025-12,potatoes,APU0000712112,"Potatoes, white, per lb",0.847,1,0.847000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-01,potatoes,APU0000712112,"Potatoes, white, per lb",0.871,1,0.871000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-02,potatoes,APU0000712112,"Potatoes, white, per lb",0.866,1,0.866000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-03,potatoes,APU0000712112,"Potatoes, white, per lb",0.847,1,0.847000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-04,potatoes,APU0000712112,"Potatoes, white, per lb",0.860,1,0.860000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-05,potatoes,APU0000712112,"Potatoes, white, per lb",0.894,1,0.894000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-06,potatoes,APU0000712112,"Potatoes, white, per lb",0.923,1,0.923000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-07,potatoes,APU0000712112,"Potatoes, white, per lb",0.942,1,0.942000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-08,potatoes,APU0000712112,"Potatoes, white, per lb",0.976,1,0.976000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-09,potatoes,APU0000712112,"Potatoes, white, per lb",0.989,1,0.989000,lb,https://data.bls.gov/timeseries/APU0000712112
+2026-10,potatoes,APU0000712112,"Potatoes, white, per lb",0.990,1,0.990000,lb,https://data.bls.gov/timeseries/APU0000712112
+2023-01,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.970,1,0.970000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-02,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.959,1,0.959000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-03,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.982,1,0.982000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-04,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.980,1,0.980000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-05,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.997,1,0.997000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-06,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.003,1,1.003000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-07,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.006,1,1.006000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-08,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.997,1,0.997000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-09,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.981,1,0.981000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-10,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.960,1,0.960000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-11,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.992,1,0.992000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-12,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",0.990,1,0.990000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-01,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.000,1,1.000000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-02,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.001,1,1.001000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-03,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.014,1,1.014000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-04,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.025,1,1.025000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-05,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.002,1,1.002000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-06,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.018,1,1.018000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-07,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.039,1,1.039000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-08,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.085,1,1.085000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-09,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.078,1,1.078000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-10,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.056,1,1.056000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-11,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.061,1,1.061000,lb,https://data.bls.gov/timeseries/APU0000701312
+2024-12,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.032,1,1.032000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-01,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.008,1,1.008000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-02,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.030,1,1.030000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-03,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.038,1,1.038000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-04,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.031,1,1.031000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-05,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.067,1,1.067000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-06,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.061,1,1.061000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-07,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.068,1,1.068000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-08,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.059,1,1.059000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-09,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.060,1,1.060000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-11,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.065,1,1.065000,lb,https://data.bls.gov/timeseries/APU0000701312
+2025-12,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.076,1,1.076000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-01,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.059,1,1.059000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-02,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.074,1,1.074000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-03,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.060,1,1.060000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-04,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.076,1,1.076000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-05,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.071,1,1.071000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-06,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.089,1,1.089000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-07,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.100,1,1.100000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-08,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.111,1,1.111000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-09,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.118,1,1.118000,lb,https://data.bls.gov/timeseries/APU0000701312
+2026-10,rice,APU0000701312,"Rice, white, long grain, uncooked, per lb",1.101,1,1.101000,lb,https://data.bls.gov/timeseries/APU0000701312
+2023-01,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",10.313,1,10.313000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-02,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",10.286,1,10.286000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-03,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",10.284,1,10.284000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-04,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",10.607,1,10.607000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-05,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",10.753,1,10.753000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-06,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.164,1,11.164000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-07,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.507,1,11.507000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-08,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.432,1,11.432000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-09,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.626,1,11.626000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-10,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.697,1,11.697000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-11,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.533,1,11.533000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-12,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.691,1,11.691000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-01,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.637,1,11.637000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-02,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.716,1,11.716000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-03,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.537,1,11.537000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-04,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.662,1,11.662000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-05,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.558,1,11.558000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-06,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.465,1,11.465000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-07,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.726,1,11.726000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-08,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.540,1,11.540000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-09,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.787,1,11.787000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-10,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.497,1,11.497000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-11,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",12.014,1,12.014000,lb,https://data.bls.gov/timeseries/APU0000703613
+2024-12,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.666,1,11.666000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-01,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.965,1,11.965000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-02,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.899,1,11.899000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-03,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",11.924,1,11.924000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-04,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",12.326,1,12.326000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-05,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",12.207,1,12.207000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-06,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",12.923,1,12.923000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-07,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",13.554,1,13.554000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-08,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.319,1,14.319000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-09,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.135,1,14.135000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-11,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",13.342,1,13.342000,lb,https://data.bls.gov/timeseries/APU0000703613
+2025-12,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.027,1,14.027000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-01,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",13.837,1,13.837000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-02,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.191,1,14.191000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-03,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.124,1,14.124000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-04,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.727,1,14.727000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-05,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.274,1,14.274000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-06,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.451,1,14.451000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-07,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.592,1,14.592000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-08,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.357,1,14.357000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-09,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",14.106,1,14.106000,lb,https://data.bls.gov/timeseries/APU0000703613
+2026-10,steak,APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb",13.848,1,13.848000,lb,https://data.bls.gov/timeseries/APU0000703613
+2023-01,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.110,1,2.110000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-02,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.990,1,1.990000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-03,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.932,1,1.932000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-04,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.874,1,1.874000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-05,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.798,1,1.798000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-06,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.911,1,1.911000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-07,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.896,1,1.896000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-08,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.877,1,1.877000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-09,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.844,1,1.844000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-10,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.865,1,1.865000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-11,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.942,1,1.942000,lb,https://data.bls.gov/timeseries/APU0000712311
+2023-12,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.995,1,1.995000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-01,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.146,1,2.146000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-02,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.132,1,2.132000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-03,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.044,1,2.044000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-04,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.962,1,1.962000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-05,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.859,1,1.859000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-06,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.843,1,1.843000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-07,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.945,1,1.945000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-08,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.996,1,1.996000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-09,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.936,1,1.936000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-10,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.980,1,1.980000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-11,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.030,1,2.030000,lb,https://data.bls.gov/timeseries/APU0000712311
+2024-12,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.067,1,2.067000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-01,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.050,1,2.050000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-02,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.848,1,1.848000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-03,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.819,1,1.819000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-04,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.793,1,1.793000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-05,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.705,1,1.705000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-06,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.737,1,1.737000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-07,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.793,1,1.793000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-08,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.925,1,1.925000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-09,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.910,1,1.910000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-11,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.828,1,1.828000,lb,https://data.bls.gov/timeseries/APU0000712311
+2025-12,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.840,1,1.840000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-01,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.791,1,1.791000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-02,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.902,1,1.902000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-03,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.255,1,2.255000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-04,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.689,1,2.689000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-05,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.489,1,2.489000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-06,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.154,1,2.154000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-07,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.003,1,2.003000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-08,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.977,1,1.977000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-09,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",1.992,1,1.992000,lb,https://data.bls.gov/timeseries/APU0000712311
+2026-10,tomatoes,APU0000712311,"Tomatoes, field grown, per lb",2.084,1,2.084000,lb,https://data.bls.gov/timeseries/APU0000712311

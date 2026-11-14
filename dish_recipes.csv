@@ -1,0 +1,53 @@
+dish,dish_name,ingredient,amount,unit,bls_series
+cheeseburger-fries,Cheeseburger with fries,ground_beef,6,oz,APU0000703112
+cheeseburger-fries,Cheeseburger with fries,bread,2.5,oz,APU0000702111
+cheeseburger-fries,Cheeseburger with fries,cheese,1,oz,APU0000710212
+cheeseburger-fries,Cheeseburger with fries,lettuce,1,oz,APU0000712211
+cheeseburger-fries,Cheeseburger with fries,tomatoes,1.5,oz,APU0000712311
+cheeseburger-fries,Cheeseburger with fries,potatoes,8,oz,APU0000712112
+bacon-eggs-breakfast,Bacon and eggs breakfast,egg,2,egg,APU0000708111
+bacon-eggs-breakfast,Bacon and eggs breakfast,bacon,3,oz,APU0000704111
+bacon-eggs-breakfast,Bacon and eggs breakfast,bread,2,oz,APU0000702111
+bacon-eggs-breakfast,Bacon and eggs breakfast,potatoes,6,oz,APU0000712112
+bacon-eggs-breakfast,Bacon and eggs breakfast,butter,0.5,oz,APU0000FS1101
+grilled-chicken-sandwich,Grilled chicken sandwich,chicken,6,oz,APU0000FF1101
+grilled-chicken-sandwich,Grilled chicken sandwich,bread,2.5,oz,APU0000702111
+grilled-chicken-sandwich,Grilled chicken sandwich,cheese,1,oz,APU0000710212
+grilled-chicken-sandwich,Grilled chicken sandwich,lettuce,1,oz,APU0000712211
+grilled-chicken-sandwich,Grilled chicken sandwich,tomatoes,1.5,oz,APU0000712311
+sirloin-baked-potato,Sirloin steak with baked potato,steak,10,oz,APU0000703613
+sirloin-baked-potato,Sirloin steak with baked potato,potatoes,10,oz,APU0000712112
+sirloin-baked-potato,Sirloin steak with baked potato,butter,1,oz,APU0000FS1101
+spaghetti-meat-sauce,Spaghetti with meat sauce,pasta,4,oz,APU0000701322
+spaghetti-meat-sauce,Spaghetti with meat sauce,ground_beef,4,oz,APU0000703112
+spaghetti-meat-sauce,Spaghetti with meat sauce,tomatoes,6,oz,APU0000712311
+spaghetti-meat-sauce,Spaghetti with meat sauce,cheese,0.5,oz,APU0000710212
+chicken-rice-beans,Chicken legs with rice and beans,chicken_legs,10,oz,APU0000706212
+chicken-rice-beans,Chicken legs with rice and beans,rice,3,oz,APU0000701312
+chicken-rice-beans,Chicken legs with rice and beans,beans,2,oz,APU0000714233
+pork-chop-potatoes,Pork chop with potatoes,pork,8,oz,APU0000FD3101
+pork-chop-potatoes,Pork chop with potatoes,potatoes,8,oz,APU0000712112
+pork-chop-potatoes,Pork chop with potatoes,butter,0.5,oz,APU0000FS1101
+cheese-omelette-toast,Three-egg cheese omelette with toast,egg,3,egg,APU0000708111
+cheese-omelette-toast,Three-egg cheese omelette with toast,cheese,1.5,oz,APU0000710212
+cheese-omelette-toast,Three-egg cheese omelette with toast,butter,0.5,oz,APU0000FS1101
+cheese-omelette-toast,Three-egg cheese omelette with toast,bread,2,oz,APU0000702111
+cheese-omelette-toast,Three-egg cheese omelette with toast,milk,1,floz,APU0000709112
+beef-stew-bowl,Beef stew bowl,beef,6,oz,APU0000703432
+beef-stew-bowl,Beef stew bowl,potatoes,6,oz,APU0000712112
+beef-stew-bowl,Beef stew bowl,tomatoes,2,oz,APU0000712311
+beef-stew-bowl,Beef stew bowl,flour,0.5,oz,APU0000701111
+ham-cheese-sandwich,Ham and cheese sandwich,ham,4,oz,APU0000704312
+ham-cheese-sandwich,Ham and cheese sandwich,cheese,1.5,oz,APU0000710212
+ham-cheese-sandwich,Ham and cheese sandwich,bread,3,oz,APU0000702111
+ham-cheese-sandwich,Ham and cheese sandwich,lettuce,1,oz,APU0000712211
+ham-cheese-sandwich,Ham and cheese sandwich,tomatoes,1.5,oz,APU0000712311
+blt-sandwich,BLT sandwich,bacon,3,oz,APU0000704111
+blt-sandwich,BLT sandwich,lettuce,1.5,oz,APU0000712211
+blt-sandwich,BLT sandwich,tomatoes,3,oz,APU0000712311
+blt-sandwich,BLT sandwich,bread,3,oz,APU0000702111
+mac-and-cheese,Macaroni and cheese,pasta,4,oz,APU0000701322
+mac-and-cheese,Macaroni and cheese,cheese,3,oz,APU0000710212
+mac-and-cheese,Macaroni and cheese,milk,4,floz,APU0000709112
+mac-and-cheese,Macaroni and cheese,butter,0.5,oz,APU0000FS1101
+mac-and-cheese,Macaroni and cheese,flour,0.25,oz,APU0000701111
