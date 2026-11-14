@@ -3,7 +3,7 @@
 The ingredient cost of 12 fixed U.S. diner plates, month by month from January 2023 to
 October 2026, at average U.S. retail prices from the Bureau of Labor Statistics (BLS), and an index of
 the whole basket (May 2023 = 100). Published by Bardach Technologies LLC; the same numbers, with
-charts, are on https://tools.bardach-technologies.com/data/plate-cost-index.
+charts, are on https://tools.bardach-technologies.com/data/plate-cost-index?utm_source=github&utm_medium=dataset&utm_campaign=b29-open-data.
 
 ## Files
 
@@ -43,7 +43,7 @@ A Zenodo DOI is pending; this section will carry it once it exists.
 ## Mirrors and charts
 
 - Hugging Face: https://huggingface.co/datasets/bardachtech/plate-cost-index
-- Charts and the same numbers: https://tools.bardach-technologies.com/data/plate-cost-index
+- Charts and the same numbers: https://tools.bardach-technologies.com/data/plate-cost-index?utm_source=github&utm_medium=dataset&utm_campaign=b29-open-data
 
 ## Recompute every number
 
